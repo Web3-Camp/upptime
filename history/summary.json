@@ -22,19 +22,19 @@
     "url": "https://daopark.xyz",
     "icon": "https://favicons.githubusercontent.com/daopark.xyz",
     "slug": "dao-park",
-    "status": "down",
-    "uptime": "99.99%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "99.99%",
-    "uptimeYear": "99.99%",
-    "time": 265,
-    "timeDay": 236,
-    "timeWeek": 265,
-    "timeMonth": 265,
-    "timeYear": 265,
+    "status": "up",
+    "uptime": "99.28%",
+    "uptimeDay": "99.23%",
+    "uptimeWeek": "99.28%",
+    "uptimeMonth": "99.28%",
+    "uptimeYear": "99.28%",
+    "time": 243,
+    "timeDay": 202,
+    "timeWeek": 243,
+    "timeMonth": 243,
+    "timeYear": 243,
     "dailyMinutesDown": {
-      "2022-03-31": 0
+      "2022-03-31": 11
     }
   },
   {
